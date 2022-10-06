@@ -1,0 +1,57 @@
+.bg-back {
+    background-color: #FCEAE8;
+}
+.container {
+    margin-bottom: 100px;
+}
+.carousel-item {
+    padding: 20px 40px;
+}
+.btn-tab {
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+}
+.cat-1 {
+    background-color: orange;
+}
+.cat-2 {
+    background-color: #198754;
+}
+.cat-3 {
+    background-color: #0D6EFD;
+}
+.cat-1,.cat-2,.cat-3 {
+    padding: 20px;
+    border-radius: 10px;
+}
+.card-footer {
+    border-top: none;
+    background-color: #fff;
+    margin-top: 50px;
+}
+.card{
+    border: none;
+    box-shadow: 5px  5px 10px lightgray;
+    margin: 0px 10px;
+    padding-bottom: 10px;
+    border-radius: 5px;
+}
+.subs {
+    padding: 50px 0px;
+    border-radius: 10px;
+}
+.box {
+    border: none;
+    font-size: 18px;
+    border-radius: 5%;
+    margin-bottom: 10px;
+}
+footer {
+    text-align: center;
+    color: floralwhite;
+    background-color: lightgray;
+    padding: 10px 0px;
+}
